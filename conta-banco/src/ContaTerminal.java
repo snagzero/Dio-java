@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        //To do: cohecer e importar a classe Scanner
+        //To do: conhecer e importar a classe Scanner
         Scanner Input = new Scanner(System.in);
 
         String nomeCliente;
@@ -26,7 +26,7 @@ public class ContaTerminal {
         Saldo = Input.nextDouble();
 
         
-        //Obter pela scanner os valores digitados no terminal
+        //Obter pela scanner os valores digitados no terminal ??
 
         //public static String dadosCompletos (String nomeDoUsuario, String Agencia, int numeroDaConta, double Saldo) {
         //    return nomeDoUsuario.concat(" ").concat(Agencia).concat (numeroDaConta).concat(Saldo);
