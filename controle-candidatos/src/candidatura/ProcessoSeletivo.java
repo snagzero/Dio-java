@@ -6,6 +6,7 @@ public class ProcessoSeletivo {
         analisarCandidato(2000.0);
         analisarCandidato(2200.0);*/
         imprimirSelecionados();
+        selecaoCandidatos();
     }
 
     static void imprimirSelecionados() {
@@ -35,9 +36,9 @@ public class ProcessoSeletivo {
             String canditado = candidatos[candidatosAtual];
             double salarioPretendido = valorPretendido();
 
-            System.out.println("O candidato" + canditado + " solicitou este valor de salatio" + salarioPretendido);
+            System.out.println("O candidato " + canditado + " solicitou este valor de salario: " + salarioPretendido);
             if(salarioBase >= salarioPretendido) {
-                System.out.println("O candidato" + canditado + "foi selecionado para a vaga");
+                System.out.println("O candidato " + canditado + " foi selecionado para a vaga.");
                 candidatosSelecionados++;
             }
             candidatosAtual++;
