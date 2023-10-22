@@ -1,6 +1,6 @@
 package diospring.src.main.service;
 
-import diospring.dio.spring.src.main.java.service.model.Cliente;
+import diospring.src.main.model.Cliente;
 
 /**
  * Interface que define o padrão <b>Strategy</b> no domínio de cliente. Com
