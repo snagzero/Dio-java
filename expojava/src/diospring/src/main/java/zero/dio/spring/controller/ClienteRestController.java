@@ -1,4 +1,4 @@
-package diospring.dio.spring.src.main.java.zero.dio.spring.controller/
+package diospring.dio.spring.src.main.java.zero.dio.spring.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
