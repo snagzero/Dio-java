@@ -1,4 +1,4 @@
-package zero.dio.spring;
+package diospring.src.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

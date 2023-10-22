@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.model;
+package diospring.src.main.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

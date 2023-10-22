@@ -1,4 +1,4 @@
-package diospring.dio.spring.src.main.java.service;
+package diospring.src.main.service;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;

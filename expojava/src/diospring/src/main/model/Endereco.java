@@ -1,4 +1,4 @@
-package diospring.dio.spring.src.main.java.zero.dio.spring.model;
+package diospring.src.main.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

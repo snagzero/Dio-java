@@ -1,4 +1,4 @@
-package diospring.dio.spring.src.main.java.service;
+package diospring.src.main.service;
 
 import diospring.dio.spring.src.main.java.service.model.Cliente;
 
